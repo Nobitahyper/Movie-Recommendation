@@ -28,3 +28,12 @@ To set up and run this project locally, follow these steps:
 - Content-based movie recommendations based on user preferences.
 - Interactive quadrant graph for exploring movies by popularity and genre similarity.
 - User-friendly web interface for easy interaction with the system.
+
+
+## Database Schema
+
+The database schema for the movie recommendation system is designed to support efficient content-based filtering and data visualization. It includes tables for movies, genres, ratings, tags, and external links.
+
+Below is the visual representation of the schema:
+
+![Database Schema](database/schema_diagram.png)
