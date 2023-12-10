@@ -1,7 +1,7 @@
 # Movie Recommendation System
 
 ## Introduction
-This project aims to develop a web-based movie recommendation system that leverages content-based filtering to suggest movies to users. The system will also feature a unique quadrant graph to visually represent movie options based on popularity and genre similarity. This is an entry-level project designed to showcase practical application of data analysis, machine learning, and full-stack web development skills.
+This project aims to develop a web-based movie recommendation system that leverages content-based filtering to suggest movies to users. The system will also feature a unique quadrant graph to represent movie options based on popularity and genre similarity visually. This is an entry-level project designed to showcase the practical application of data analysis, machine learning, and full-stack web development skills.
 
 ## Technologies Used
 - **Frontend**: JavaScript, HTML, CSS
