@@ -31,9 +31,10 @@ To set up and run this project locally, follow these steps:
 
 
 ## Database Schema
-
-The database schema for the movie recommendation system is designed to support efficient content-based filtering and data visualization. It includes tables for movies, genres, ratings, tags, and external links.
-
-Below is the visual representation of the schema:
-
-![Database Schema](database/schema_diagram.png)
+The database consists of the following tables:
+1. movies: Contains movie titles, genres, and identifiers.
+2. genres: Stores unique movie genres.
+3. movieGenres: Links movies to their respective genres.
+4. ratings: User ratings for movies.
+5. tags: User-generated tags for movies.
+6. links: External links to movie databases like IMDb and TheMovieDB.
